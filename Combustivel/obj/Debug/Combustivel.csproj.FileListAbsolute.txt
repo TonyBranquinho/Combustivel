@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Combustivel\Combustivel\bin\Debug\Combustivel.exe.config
+C:\temp\ws-vs2019\Combustivel\Combustivel\bin\Debug\Combustivel.exe
+C:\temp\ws-vs2019\Combustivel\Combustivel\bin\Debug\Combustivel.pdb
+C:\temp\ws-vs2019\Combustivel\Combustivel\obj\Debug\Combustivel.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Combustivel\Combustivel\obj\Debug\Combustivel.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Combustivel\Combustivel\obj\Debug\Combustivel.exe
+C:\temp\ws-vs2019\Combustivel\Combustivel\obj\Debug\Combustivel.pdb
